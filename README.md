@@ -1,11 +1,13 @@
-#Calendar APP
+# Calendar APP
+## https://norbertok.com/jobs 
 
-##Front
+### Front
 
-npm i
-npm start
+* npm i
+* npm start
 
-##Backend
-Requiere MongoDB
-npm i
-npm start
+### Backend
+
+* Requiere MongoDB
+* npm i
+* npm start
